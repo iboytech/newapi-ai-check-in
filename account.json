@@ -1,0 +1,32 @@
+[
+    {
+      "name": "anyrouter",
+      "provider": "anyrouter",
+      "linux.do": true
+    },
+      {
+      "name": "x666",
+      "provider": "x666",
+      "linux.do": true
+    },
+    {
+      "name": "huan666",
+      "provider": "huan666",
+      "linux.do": true
+    },
+    {
+      "name": "hotaru",
+      "provider": "hotaru",
+      "linux.do": true
+    },
+    {
+      "name": "free_nanohajimi_mom",
+      "provider": "free_nanohajimi_mom",
+      "linux.do": true
+    },
+    {
+      "name": "usegemini",
+      "provider": "usegemini",
+      "linux.do": true
+    }
+]
