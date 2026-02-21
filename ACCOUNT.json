@@ -18,15 +18,5 @@
       "name": "hotaru",
       "provider": "hotaru",
       "linux.do": true
-    },
-    {
-      "name": "free_nanohajimi_mom",
-      "provider": "free_nanohajimi_mom",
-      "linux.do": true
-    },
-    {
-      "name": "usegemini",
-      "provider": "usegemini",
-      "linux.do": true
     }
 ]
