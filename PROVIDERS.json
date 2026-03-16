@@ -239,7 +239,7 @@
         "aliyun_captcha": false,
         "bypass_method": null
     },
-        "nih_cc": {
+    "nih_cc": {
         "origin": "https://nih.cc",
         "login_path": "/login",
         "status_path": "/api/status",
@@ -254,6 +254,26 @@
         "github_auth_path": "/api/oauth/github",
         "github_auth_redirect_path": "/oauth/**",
         "linuxdo_client_id": "WmYWDwXIwGuvlYZ98wbt2UNB2kqp4rna",
+        "linuxdo_auth_path": "/api/oauth/linuxdo",
+        "linuxdo_auth_redirect_path": "/oauth/**",
+        "aliyun_captcha": false,
+        "bypass_method": null
+    },
+    "ethan010203": {
+        "origin": "https://laoxi.ethan010203.online",
+        "login_path": "/login",
+        "status_path": "/api/status",
+        "auth_state_path": "/api/oauth/state",
+        "check_in_path": "/api/user/checkin",
+        "check_in_status": true,
+        "user_info_path": "/api/user/self",
+        "topup_path": "/api/user/topup",
+        "get_cdk": null,
+        "api_user_key": "new-api-user",
+        "github_client_id": null,
+        "github_auth_path": "/api/oauth/github",
+        "github_auth_redirect_path": "/oauth/**",
+        "linuxdo_client_id": "DhfzwSUDja8AFazyd9fdX7rJ4TQkc4kS",
         "linuxdo_auth_path": "/api/oauth/linuxdo",
         "linuxdo_auth_redirect_path": "/oauth/**",
         "aliyun_captcha": false,
